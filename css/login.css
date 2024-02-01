@@ -64,7 +64,9 @@ html {
 }
 
 .twitter-btn {
-    color: #bbb;
+    font-style: oblique;
+    font-weight: bold;
+    color: #727272;
     background-color: #eee;
     border: none;
     width: 40px;
